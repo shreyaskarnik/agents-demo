@@ -1,0 +1,2 @@
+crewai
+atlassian-python-api
