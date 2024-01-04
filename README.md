@@ -1,5 +1,9 @@
 # agents powered by Local LLMs
 
+This repo contains code that accompanies the blog post <https://kshreyas.dev/post/ai-agents/>
+
+These agents are powered by [CrewAI](https://github.com/joaomdmoura/CrewAI)
+
 ## Custom Ollama Model
 
 * [Customizing Ollama Models using Modelfile](https://github.com/jmorganca/ollama/blob/main/docs/modelfile.md)
@@ -16,4 +20,4 @@
     python main.py
     # the crew should now be starting
     ```
-* Accompanying blog post can be found at <https://kshreyas.dev/post/ai-agents/>
+
